@@ -1,3 +1,3 @@
-<INCLUDE_TYPOSCRIPT: source="FILE: EXT:material_design_lite/Configuration/TypoScript/System/Assets.ts">
+<INCLUDE_TYPOSCRIPT: source="FILE: EXT:material_design_lite/Configuration/TypoScript/System/Assets.tscript">
 
-<INCLUDE_TYPOSCRIPT: source="FILE: EXT:material_design_lite/Configuration/TypoScript/Page.Blog.ts">
+<INCLUDE_TYPOSCRIPT: source="FILE: EXT:material_design_lite/Configuration/TypoScript/Page.Blog.tscript">
